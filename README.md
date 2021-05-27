@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rogerio-ignacio-developer
 - 👀 I’m interested in Pretty Codes
-- 🌱 I’m currently learning Advanced C#
-- 💞️ I’m looking to collaborate on C# and Quality Code Automation 
+- 🌱 I'm currently learning Advanced things on C#
+- 💞️ I’m looking to collaborate on C# and Quality Code Gate Automation 
 - 📫 LinkedIn: www.linkedin.com/in/rogerio-ignacio-developer
 
 <!---
