@@ -8,7 +8,7 @@ My name is Rogerio Ignacio. I work as a Software Developer at Eleva Educacao.
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rogerio-ignacio-developer&repo=rogerio-ignacio-developer&countColorcountColor)
 
 ### Languages & Tools 🛠  
-![ C Sharp ](https://img.shields.io/badge/-C#-05122A?style=flat&color=green)&nbsp;![ C# ](https://img.shields.io/badge/-C#-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;  
+![ C Sharp ](https://img.shields.io/badge/-C#-05122A?style=flat&color=green)&nbsp;![ C# ](https://img.shields.io/badge/-C-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;  
 ![.net](https://img.shields.io/badge/-.net-05122A?style=flat&color=orange)&nbsp;![.netcore](https://img.shields.io/badge/-.netcore-05122A?style=flat&color=orange)&nbsp;![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&color=orange)&nbsp;  
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&color=gray)&nbsp;  
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&color=yellow)&nbsp;![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&color=yellow)&nbsp;  
