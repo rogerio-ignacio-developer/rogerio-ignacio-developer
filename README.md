@@ -27,8 +27,8 @@ My name is Rogério Ignaio. I work as a Software Developer at Eleva Educação.
 
 <p align="left">
 
-<a href="www.linkedin.com/in/rogerio-ignacio-developer"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rogerio-ignacio-developer/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-<a href="RogrioIgncio1"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/RogrioIgncio1"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 
 </p>
