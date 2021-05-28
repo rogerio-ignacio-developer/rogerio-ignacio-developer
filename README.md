@@ -32,3 +32,5 @@ My name is Rogério Ignaio. I work as a Software Developer at Eleva Educação.
 <a href="https://twitter.com/RogrioIgncio1"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 
 </p>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="rogerio-ignacio-developer"><a class="LI-simple-link" href='https://br.linkedin.com/in/rogerio-ignacio-developer?trk=profile-badge'>Rogério Ignácio dos Santos Filho</a></div>
