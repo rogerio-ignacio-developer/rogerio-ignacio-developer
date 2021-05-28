@@ -1,7 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Rogério Ignácio </h1>
-==========================================================================================================================================
-
+<hr>
 
 My name is Rogério Ignaio. I work as a Software Developer at Eleva Educação.
 
