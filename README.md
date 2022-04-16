@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Rogério Ignácio </h1>
 <hr>
 
-My name is Rogério Ignaio. I work as a Software Developer and Product Manager Lead at People Interactive.
+My name is Rogério Ignaio. I work as a Frontend Developer and Product Manager Lead at People Interactive.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rogerio-ignacio-developer&repo=rogerio-ignacio-developer&countColorcountColor)
 
