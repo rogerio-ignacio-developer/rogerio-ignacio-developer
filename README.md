@@ -9,7 +9,6 @@ My name is Rogério Ignaio. I work as a Software Developer and Product Manager L
 ### Languages & Tools 🛠  
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;  
 ![.net](https://img.shields.io/badge/-.net-05122A?style=flat&color=orange)&nbsp;![reactNative](https://img.shields.io/badge/-reactNative-05122A?style=flat&color=orange)&nbsp;![react](https://img.shields.io/badge/-react-05122A?style=flat&color=orange)&nbsp;![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&color=orange)&nbsp;![nextJs](https://img.shields.io/badge/-nextJs-05122A?style=flat&color=orange)&nbsp;
-
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&color=gray)&nbsp;  
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&color=yellow)&nbsp;![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&color=yellow)&nbsp;  
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&color=blue)&nbsp;  
